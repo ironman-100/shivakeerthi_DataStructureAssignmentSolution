@@ -1,4 +1,4 @@
-package bstToRightSkewedTree;
+package src.bstToRightSkewedTree;
 
 public class Main {
 

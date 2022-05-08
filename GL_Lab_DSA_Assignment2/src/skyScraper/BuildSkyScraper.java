@@ -1,4 +1,4 @@
-package skyScraper;
+package src.skyScraper;
 
 import java.util.Scanner;
 import java.util.Stack;

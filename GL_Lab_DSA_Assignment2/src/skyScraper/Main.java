@@ -1,4 +1,4 @@
-package skyScraper;
+package src.skyScraper;
 
 public class Main {
 
